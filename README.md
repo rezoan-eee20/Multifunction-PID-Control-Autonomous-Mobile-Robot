@@ -4,6 +4,6 @@ Developed the robot to follow a black/white line by a PID loop with the automati
 Tools: Programming: C/C++, Hardware: TCRT5000 IR Sensor, RGB LED, LDR, HC-SR04 Ultrasonic Sensor, Arduino Mega, Lm2596 Buck Converter, L298 Motor Driver, Gear Motor, 3S & 1S Lipo Battery.</br>
 
 
-This is the demonstration video :https://www.youtube.com/watch?v=0KFR2EsdOnM <br/>
+This is the demonstration video :https://www.youtube.com/watch?v=RVSGUxhi1mY <br/>
 
-[![Multifunction-PID-Control-Autonomous-Mobile-Robot](https://img.youtube.com/vi/0KFR2EsdOnM/0.jpg)](https://www.youtube.com/watch?v=0KFR2EsdOnM)
+[![Multi-functional-PID-Control-Autonomous-Mobile-Robot](https://img.youtube.com/vi/RVSGUxhi1mY/0.jpg)](https://www.youtube.com/watch?v=RVSGUxhi1mY)
